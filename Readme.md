@@ -56,8 +56,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ritesh-yadav-761318280
+- 📧 Email: riteshyadavr903@gmail.com
 
 ---
 
