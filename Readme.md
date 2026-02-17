@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritesh Yadav</h1>
-<h3 align="center">Computer Science Student | Problem Solver | Future Software Engineer</h3>
+<h3 align="center">ECE Student | Problem Solver | Future Software Engineer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student  
+- 🎓 Electronics & Communication Student  
 - 📚 Currently studying **Information Theory & Coding**
 - 💡 Interested in System Design, Backend Engineering & Scalable Architectures  
 - 🎯 Preparing for On-Campus Placements  
